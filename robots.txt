@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /ajax/?*
+
+Sitemap: https://123movies.fun/sitemap.xml
